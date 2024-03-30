@@ -1,5 +1,4 @@
-# Projet à rendre Scala
-## Nom et prénom : BELHANNACHI Moundji
+# Projet Scala d'entraînement
 
 ## Execution
 
